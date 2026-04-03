@@ -55,3 +55,15 @@ Personal and commercial use permitted. Redistribution prohibited.
 ---
 
 *Built by GridGuard AI — AI Infrastructure & Automation Consulting*
+
+---
+
+## Support This Project
+
+If this helped you, consider supporting GridGuard's open-source work:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5e5b?logo=ko-fi)](https://ko-fi.com/gridguard)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Browse%20Products-36a9ae?logo=gumroad)](https://gumroad.com/gridguard)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/PurdueDM)
+
+Every tip fuels more free tools and templates.
